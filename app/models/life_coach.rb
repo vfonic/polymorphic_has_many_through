@@ -1,0 +1,2 @@
+class LifeCoach < ApplicationRecord
+end
